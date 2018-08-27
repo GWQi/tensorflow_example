@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/guwenqi/Documents/test/model/graph_1/ckpt"
+all_model_checkpoint_paths: "/home/guwenqi/Documents/test/model/graph_1/ckpt"
